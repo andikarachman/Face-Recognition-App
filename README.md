@@ -1,6 +1,5 @@
 
 # Face Recognition App Using Python
-===================================
 
 To run the program:
 
