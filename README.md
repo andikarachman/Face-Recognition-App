@@ -3,7 +3,7 @@
 
 To run the program:
 
-*python webcam_face_recognition.py*
+*$python webcam_face_recognition.py*
 
 - You will need a webcam to run this app.
 
